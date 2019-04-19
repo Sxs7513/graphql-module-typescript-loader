@@ -1,0 +1,23 @@
+{
+  "name": "graphql-module-typescript-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader to create TypeScript declarations for .graphql file module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "typescript",
+    "graphql-module",
+    "webpack"
+  ],
+  "author": "sxs",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^14.2.1",
+    "graphql-tag": "^2.10.1",
+    "jest": "^24.7.1",
+    "memory-fs": "^0.4.1",
+    "webpack": "^4.30.0"
+  }
+}
