@@ -19,5 +19,9 @@
     "jest": "^24.7.1",
     "memory-fs": "^0.4.1",
     "webpack": "^4.30.0"
+  },
+  "homepage": "https://github.com/Sxs7513/graphql-module-typescript-loader",
+  "bugs": {
+    "url": "https://github.com/Sxs7513/graphql-module-typescript-loader"
   }
 }
